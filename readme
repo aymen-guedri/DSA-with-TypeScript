@@ -1,0 +1,6 @@
+run using : 
+1/
+tsc ex1.ts test.ts
+
+2/ 
+node test.js
